@@ -96,6 +96,27 @@ ItsMoritzzz: {
       
     ]
   },
+  SocialRex11: {
+    name: "SocialRex11",
+    rank: "4.",
+    title: "Rookie",
+    points: "3 points",
+    tiers: [
+      {icon:"speed-116175c6", tier:"HT5"},
+      {icon:"bed-7313535b", tier:"LT5"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},      
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},         
+      {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},           
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
 };
 
 

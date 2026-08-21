@@ -1,4 +1,5 @@
- document.getElementById('popup').style.display='none';
+function closeProfile(){
+document.getElementById('popup').style.display='none';
 }
 document.querySelectorAll('.overall-player').forEach(card => {
 

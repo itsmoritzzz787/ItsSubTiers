@@ -34,3 +34,136 @@ function showKit(e, id) {
   currentIndex = newIndex;
 }
 const players = {
+ItsMoritzzz: {
+    name: "ItsMoritzzz",
+    rank: "1.",
+    title: "Combat Cadet",
+    points: "30 points",
+    tiers: [
+      {icon:"bow-0b52585f", tier:"LT4"},
+      {icon:"minecart-e4204998", tier:"LT4"},     
+      {icon:"dia_crystal-b4032423", tier:"LT4"},
+      {icon:"og_vanilla-bd47093f", tier:"LT4"},
+      {icon:"bed-7313535b", tier:"LT4"},
+      {icon:"trident-1c1a3e5a", tier:"LT4"},
+      {icon:"speed-116175c6", tier:"HT5"},      
+      {icon:"creeper-2cbc5b3a", tier:"HT5"},
+      {icon:"manhunt-f5be6ddb", tier:"HT5"},
+      {icon:"dia_smp-523efa38", tier:"HT5"}
+      {icon:"debuff-23da9341", tier:"HT5"},
+      {icon:"elytra-73b66265", tier:"HT5"},
+    ]
+  },
+};
+
+
+function openProfile(name) {
+  const player = players[name];
+  if (!player) return;
+
+  document.getElementById("popup").style.display = "flex";
+
+  /* NAME */
+  document.getElementById("popup-name").innerText = player.name;
+
+  /* SKIN */
+  document.getElementById("popup-skin").src =
+    `https://render.crafty.gg/3d/bust/${player.name}`;
+
+  /* INFO */
+  document.getElementById("popup-rank").innerText = player.rank;
+  document.getElementById("popup-title").innerText = player.title;
+  document.getElementById("popup-points").innerText = player.points;
+
+  /* TOP 3 FARBEN */
+  const rankEl = document.getElementById("popup-rank");
+
+  rankEl.classList.remove("gold", "silver", "bronze");
+
+  if (player.rank.trim() === "1.") {
+    rankEl.classList.add("gold");
+  }
+  else if (player.rank.trim() === "2.") {
+    rankEl.classList.add("silver");
+  }
+  else if (player.rank.trim() === "3.") {
+    rankEl.classList.add("bronze");
+  }
+
+  /* TIERS */
+  const container = document.getElementById("popup-tiers");
+  container.innerHTML = "";
+
+  player.tiers.forEach(t => {
+
+    const el = document.createElement("div");
+    el.className = "kit-item";
+
+    const iconSrc = t.icon.startsWith("http")
+      ? t.icon
+      : `https://subtiers.net/assets/${t.icon}.svg`;
+
+    el.innerHTML = `
+      <div class="icon ${t.tier.toLowerCase()}">
+        <img src="${iconSrc}">
+      </div>
+
+      <span class="label ${t.tier.toLowerCase()}">
+        ${t.tier}
+      </span>
+    `;
+
+    container.appendChild(el);
+  });
+}
+
+function closeProfile() {
+  document.getElementById("popup").style.display = "none";
+}
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".player, .overall-player").forEach(el => {
+    el.addEventListener("click", () => {
+      const name = el.innerText.split("\n")[0].trim();
+      openProfile(name);
+    });
+  });
+});
+document.querySelectorAll('.kit-item').forEach(el => {
+  const text = el.getAttribute('data-tooltip');
+  if (text && text.includes('|')) {
+    el.setAttribute('data-tooltip', text.replace('|', '\n'));
+  }
+});
+document.getElementById("playerSearch").addEventListener("keydown", function(e){
+
+  if(e.key !== "Enter") return;
+
+  const search = this.value.toLowerCase();
+
+  const player = players.find(p =>
+    p.name.toLowerCase() === search
+  );
+
+  if(player){
+    openProfile(player);
+    this.value = "";
+  }
+});
+document
+.getElementById("playerSearch")
+.addEventListener("keydown", function(e){
+
+  if(e.key !== "Enter") return;
+
+  const input = this.value.toLowerCase().trim();
+
+  const playerKey = Object.keys(players).find(key =>
+    players[key].name.toLowerCase().includes(input)
+  );
+
+  if(playerKey){
+    openProfile(playerKey);
+  }
+});

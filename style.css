@@ -4,7 +4,7 @@ body{margin:0;font-family:Arial;background:#121822;color:white}
 .kit-tab{background:#10161d;border-radius:10px;cursor:pointer}
 .kit-tab.active{border-bottom:2px solid white}
 
-.overall-player{display:grid;grid-template-columns:80px 1fr 80px 540px;background:#141b26;margin:10px;padding:15px;border-radius:12px;cursor:pointer;position: relative;
+.overall-player{display:grid;grid-template-columns:80px 1fr 80px 580px;background:#141b26;margin:10px;padding:15px;border-radius:12px;cursor:pointer;position: relative;
   overflow: hidden;}
 .rank{font-size:35px;color:white;font-family:trebuchet ms;font-weight:1000;text-shadow:2px 2px black;}
 .region.na{background:#442228;padding:7px;border-radius:10px;text-align:center;color:#d35967;margin: auto;font-weight:800;font-size:20px;margin-right: 20px;}

@@ -55,6 +55,47 @@ ItsMoritzzz: {
       {icon:"elytra-73b66265", tier:"HT5"},
     ]
   },
+  certifiedrid: {
+    name: "certifiedrid",
+    rank: "2.",
+    title: "Combat Novice",
+    points: "10 points",
+    tiers: [
+      {icon:"dia_crystal-b4032423", tier:"HT3"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},         
+      {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},
+      {icon:"speed-116175c6", tier:"-"},      
+      {icon:"creeper-2cbc5b3a", tier:"-"},
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},
+    ]
+  },
+  McNicho: {
+    name: "McNicho",
+    rank: "2.",
+    title: "Rookie",
+    points: "6 points",
+    tiers: [
+      {icon:"elytra-73b66265", tier:"LT4"},
+      {icon:"creeper-2cbc5b3a", tier:"HT5"},
+      {icon:"bed-7313535b", tier:"LT5"},
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},         
+      {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},
+      {icon:"speed-116175c6", tier:"-"},      
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
 };
 
 

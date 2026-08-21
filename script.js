@@ -50,7 +50,7 @@ ItsMoritzzz: {
       {icon:"speed-116175c6", tier:"HT5"},      
       {icon:"creeper-2cbc5b3a", tier:"HT5"},
       {icon:"manhunt-f5be6ddb", tier:"HT5"},
-      {icon:"dia_smp-523efa38", tier:"HT5"}
+      {icon:"dia_smp-523efa38", tier:"HT5"},
       {icon:"debuff-23da9341", tier:"HT5"},
       {icon:"elytra-73b66265", tier:"HT5"},
     ]

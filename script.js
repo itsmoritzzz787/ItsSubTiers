@@ -137,8 +137,8 @@ ItsMoritzzz: {
       
     ]
   },
-  SocialRex11: {
-    name: "SocialRex11",
+  TREN: {
+    name: "1TREN",
     rank: "5.",
     title: "Rookie",
     points: "3 points",

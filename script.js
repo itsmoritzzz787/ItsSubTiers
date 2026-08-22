@@ -95,6 +95,27 @@ ItsMoritzzz: {
       {icon:"elytra-73b66265", tier:"-"},
     ]
   },
+   shotss: {
+    name: "4shotss",
+    rank: "4.",
+    title: "Rookie",
+    points: "6 points",
+    tiers: [
+      {icon:"og_vanilla-bd47093f", tier:"LT3"},
+      {icon:"speed-116175c6", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},      
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},               
+      {icon:"trident-1c1a3e5a", tier:"-"},           
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
   McNicho: {
     name: "McNicho",
     rank: "4.",
@@ -118,7 +139,7 @@ ItsMoritzzz: {
   },
   SocialRex11: {
     name: "SocialRex11",
-    rank: "5.",
+    rank: "6.",
     title: "Rookie",
     points: "3 points",
     tiers: [
@@ -139,7 +160,7 @@ ItsMoritzzz: {
   },
   TREN: {
     name: "1TREN",
-    rank: "5.",
+    rank: "6.",
     title: "Rookie",
     points: "3 points",
     tiers: [
@@ -160,7 +181,7 @@ ItsMoritzzz: {
   },
   BartekGaming383: {
     name: "BartekGaming383",
-    rank: "5.",
+    rank: "6.",
     title: "Rookie",
     points: "3 points",
     tiers: [
@@ -181,7 +202,7 @@ ItsMoritzzz: {
   },
    Eliiiiaass: {
     name: "Eliiiiaass",
-    rank: "8.",
+    rank: "9.",
     title: "Rookie",
     points: "1 points",
     tiers: [

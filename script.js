@@ -55,9 +55,29 @@ ItsMoritzzz: {
       {icon:"elytra-73b66265", tier:"HT5"},
     ]
   },
+  Jonkler75: {
+    name: "Jonkler75",
+    rank: "2.",
+    title: "Combat Novice",
+    points: "18 points",
+    tiers: [
+      {icon:"debuff-23da9341", tier:"LT3"},
+      {icon:"dia_crystal-b4032423", tier:"HT4"},
+      {icon:"trident-1c1a3e5a", tier:"LT4"},
+      {icon:"dia_smp-523efa38", tier:"LT4"},
+      {icon:"creeper-2cbc5b3a", tier:"HT5"},  
+      {icon:"speed-116175c6", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},      
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},         
+      {icon:"og_vanilla-bd47093f", tier:"-"},                 
+      {icon:"manhunt-f5be6ddb", tier:"-"},            
+    ]
+  },
   certifiedrid: {
     name: "certifiedrid",
-    rank: "2.",
+    rank: "3.",
     title: "Combat Novice",
     points: "10 points",
     tiers: [
@@ -77,7 +97,7 @@ ItsMoritzzz: {
   },
   McNicho: {
     name: "McNicho",
-    rank: "2.",
+    rank: "4.",
     title: "Rookie",
     points: "6 points",
     tiers: [
@@ -98,7 +118,7 @@ ItsMoritzzz: {
   },
   SocialRex11: {
     name: "SocialRex11",
-    rank: "4.",
+    rank: "5.",
     title: "Rookie",
     points: "3 points",
     tiers: [
@@ -110,6 +130,69 @@ ItsMoritzzz: {
       {icon:"bow-0b52585f", tier:"-"},
       {icon:"minecart-e4204998", tier:"-"},         
       {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},           
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
+  SocialRex11: {
+    name: "SocialRex11",
+    rank: "5.",
+    title: "Rookie",
+    points: "3 points",
+    tiers: [
+      {icon:"speed-116175c6", tier:"LT4"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},      
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},         
+      {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},           
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
+  BartekGaming383: {
+    name: "BartekGaming383",
+    rank: "5.",
+    title: "Rookie",
+    points: "3 points",
+    tiers: [
+      {icon:"og_vanilla-bd47093f", tier:"LT4"},
+      {icon:"speed-116175c6", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},      
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},               
+      {icon:"trident-1c1a3e5a", tier:"-"},           
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
+   Eliiiiaass: {
+    name: "Eliiiiaass",
+    rank: "8.",
+    title: "Rookie",
+    points: "1 points",
+    tiers: [
+      {icon:"minecart-e4204998", tier:"LT5"}, 
+      {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"speed-116175c6", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},      
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},                    
       {icon:"trident-1c1a3e5a", tier:"-"},           
       {icon:"manhunt-f5be6ddb", tier:"-"},
       {icon:"dia_smp-523efa38", tier:"-"},

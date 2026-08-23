@@ -39,8 +39,9 @@ ItsMoritzzz: {
     name: "ItsMoritzzz",
     rank: "1.",
     title: "Combat Cadet",
-    points: "42 points",
+    points: "46 points",
     tiers: [
+      {icon:"elytra-73b66265", tier:"LT3"},
       {icon:"bed-7313535b", tier:"LT3"},
       {icon:"bow-0b52585f", tier:"LT3"},
       {icon:"trident-1c1a3e5a", tier:"HT4"},
@@ -51,8 +52,7 @@ ItsMoritzzz: {
       {icon:"minecart-e4204998", tier:"LT4"},     
       {icon:"dia_crystal-b4032423", tier:"LT4"},
       {icon:"og_vanilla-bd47093f", tier:"LT4"},      
-      {icon:"manhunt-f5be6ddb", tier:"HT5"},           
-      {icon:"elytra-73b66265", tier:"HT5"},
+      {icon:"manhunt-f5be6ddb", tier:"HT5"},                 
     ]
   },
    shotss: {

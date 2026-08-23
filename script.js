@@ -97,9 +97,30 @@ ItsMoritzzz: {
       {icon:"manhunt-f5be6ddb", tier:"LT5"},      
     ]
   },
+  k4qx: {
+    name: "k4qx",
+    rank: "4.",
+    title: "Combat Cadet",
+    points: "20 points",
+    tiers: [
+      {icon:"speed-116175c6", tier:"HT3"},
+      {icon:"og_vanilla-bd47093f", tier:"LT3"},
+      {icon:"trident-1c1a3e5a", tier:"HT4"}, 
+      {icon:"creeper-2cbc5b3a", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},            
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},                              
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
   Jonkler75: {
     name: "Jonkler75",
-    rank: "4.",
+    rank: "5.",
     title: "Combat Novice",
     points: "18 points",
     tiers: [
@@ -119,7 +140,7 @@ ItsMoritzzz: {
   },
   Eliiiiaass: {
     name: "Eliiiiaass",
-    rank: "8.",
+    rank: "6.",
     title: "Combat Novice",
     points: "13 points",
     tiers: [
@@ -140,7 +161,7 @@ ItsMoritzzz: {
   },
    MyNameIsPuma: {
     name: "MyNameIsPuma",
-    rank: "6.",
+    rank: "7.",
     title: "Combat Novice",
     points: "12 points",
     tiers: [
@@ -161,7 +182,7 @@ ItsMoritzzz: {
   },
   TREN: {
     name: "1TREN",
-    rank: "7.",
+    rank: "8.",
     title: "Combat Novice",
     points: "10 points",
     tiers: [
@@ -182,7 +203,7 @@ ItsMoritzzz: {
   },
   certifiedrid: {
     name: "certifiedrid",
-    rank: "7.",
+    rank: "8.",
     title: "Combat Novice",
     points: "10 points",
     tiers: [
@@ -203,7 +224,7 @@ ItsMoritzzz: {
   
    TREN: {
     name: "1TREN",
-    rank: "9.",
+    rank: "10.",
     title: "Rookie",
     points: "6 points",
     tiers: [
@@ -224,7 +245,7 @@ ItsMoritzzz: {
   },
   McNicho: {
     name: "McNicho",
-    rank: "9.",
+    rank: "10.",
     title: "Rookie",
     points: "6 points",
     tiers: [
@@ -248,7 +269,7 @@ ItsMoritzzz: {
   
   BartekGaming383: {
     name: "BartekGaming383",
-    rank: "11.",
+    rank: "12.",
     title: "Rookie",
     points: "3 points",
     tiers: [
@@ -269,7 +290,7 @@ ItsMoritzzz: {
   },
   TheCronos_YT: {
     name: "TheCronos_YT",
-    rank: "12.",
+    rank: "13.",
     title: "Rookie",
     points: "2 points",
     tiers: [

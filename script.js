@@ -59,7 +59,7 @@ ItsMoritzzz: {
     name: "4shotss",
     rank: "2.",
     title: "Combat Novice",
-    points: "36 points",
+    points: "38 points",
     tiers: [
       {icon:"elytra-73b66265", tier:"LT3"},
       {icon:"speed-116175c6", tier:"LT3"},
@@ -69,9 +69,9 @@ ItsMoritzzz: {
       {icon:"debuff-23da9341", tier:"LT4"},
       {icon:"trident-1c1a3e5a", tier:"LT4"},   
       {icon:"bed-7313535b", tier:"LT4"},
+      {icon:"minecart-e4204998", tier:"HT5"},  
       {icon:"bow-0b52585f", tier:"HT5"},                    
-      {icon:"dia_crystal-b4032423", tier:"-"},      
-      {icon:"minecart-e4204998", tier:"-"},                           
+      {icon:"dia_crystal-b4032423", tier:"-"},                                     
       {icon:"manhunt-f5be6ddb", tier:"-"},    
     
       

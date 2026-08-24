@@ -138,6 +138,27 @@ ItsMoritzzz: {
       {icon:"manhunt-f5be6ddb", tier:"-"},            
     ]
   },
+  TREN: {
+    name: "1TREN",
+    rank: "6.",
+    title: "Combat Novice",
+    points: "13 points",
+    tiers: [
+      {icon:"speed-116175c6", tier:"LT3"},
+      {icon:"og_vanilla-bd47093f", tier:"LT4"},
+      {icon:"trident-1c1a3e5a", tier:"LT4"},  
+      {icon:"creeper-2cbc5b3a", tier:"LT5"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},            
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},                            
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
   Eliiiiaass: {
     name: "Eliiiiaass",
     rank: "6.",
@@ -161,7 +182,7 @@ ItsMoritzzz: {
   },
    MyNameIsPuma: {
     name: "MyNameIsPuma",
-    rank: "7.",
+    rank: "8.",
     title: "Combat Novice",
     points: "12 points",
     tiers: [
@@ -180,30 +201,10 @@ ItsMoritzzz: {
       
     ]
   },
-  TREN: {
-    name: "1TREN",
-    rank: "8.",
-    title: "Combat Novice",
-    points: "10 points",
-    tiers: [
-      {icon:"speed-116175c6", tier:"LT3"},
-      {icon:"og_vanilla-bd47093f", tier:"LT4"},
-      {icon:"creeper-2cbc5b3a", tier:"LT5"},
-      {icon:"bed-7313535b", tier:"-"},
-      {icon:"elytra-73b66265", tier:"-"},            
-      {icon:"dia_crystal-b4032423", tier:"-"},
-      {icon:"bow-0b52585f", tier:"-"},
-      {icon:"minecart-e4204998", tier:"-"},              
-      {icon:"trident-1c1a3e5a", tier:"-"},           
-      {icon:"manhunt-f5be6ddb", tier:"-"},
-      {icon:"dia_smp-523efa38", tier:"-"},
-      {icon:"debuff-23da9341", tier:"-"},
-      
-    ]
-  },
+  
   certifiedrid: {
     name: "certifiedrid",
-    rank: "8.",
+    rank: "9.",
     title: "Combat Novice",
     points: "10 points",
     tiers: [

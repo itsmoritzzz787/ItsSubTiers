@@ -58,10 +58,10 @@ ItsMoritzzz: {
    shotss: {
     name: "4shotss",
     rank: "2.",
-    title: "Combat Novice",
-    points: "38 points",
+    title: "Combat Cadet",
+    points: "45 points",
     tiers: [
-      {icon:"elytra-73b66265", tier:"LT3"},
+      {icon:"elytra-73b66265", tier:"HT3"},
       {icon:"speed-116175c6", tier:"LT3"},
       {icon:"og_vanilla-bd47093f", tier:"LT3"},   
       {icon:"dia_smp-523efa38", tier:"HT4"},
@@ -69,17 +69,36 @@ ItsMoritzzz: {
       {icon:"debuff-23da9341", tier:"LT4"},
       {icon:"trident-1c1a3e5a", tier:"LT4"},   
       {icon:"bed-7313535b", tier:"LT4"},
+      {icon:"dia_crystal-b4032423", tier:"HT5"},
       {icon:"minecart-e4204998", tier:"HT5"},  
       {icon:"bow-0b52585f", tier:"HT5"},                    
-      {icon:"dia_crystal-b4032423", tier:"-"},                                     
-      {icon:"manhunt-f5be6ddb", tier:"-"},    
-    
+      {icon:"manhunt-f5be6ddb", tier:"LT5"},          
+    ]
+  },
+  k4qx: {
+    name: "k4qx",
+    rank: "4.",
+    title: "Combat Cadet",
+    points: "26 points",
+    tiers: [
+      {icon:"elytra-73b66265", tier:"LT3"}, 
+      {icon:"speed-116175c6", tier:"HT3"},
+      {icon:"og_vanilla-bd47093f", tier:"LT3"},
+      {icon:"trident-1c1a3e5a", tier:"HT4"}, 
+      {icon:"creeper-2cbc5b3a", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},                 
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},                              
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
       
     ]
   },
    SocialRex11: {
     name: "SocialRex11",
-    rank: "3.",
+    rank: "4.",
     title: "Combat Cadet",
     points: "24 points",
     tiers: [
@@ -97,27 +116,7 @@ ItsMoritzzz: {
       {icon:"manhunt-f5be6ddb", tier:"LT5"},      
     ]
   },
-  k4qx: {
-    name: "k4qx",
-    rank: "4.",
-    title: "Combat Cadet",
-    points: "20 points",
-    tiers: [
-      {icon:"speed-116175c6", tier:"HT3"},
-      {icon:"og_vanilla-bd47093f", tier:"LT3"},
-      {icon:"trident-1c1a3e5a", tier:"HT4"}, 
-      {icon:"creeper-2cbc5b3a", tier:"-"},
-      {icon:"bed-7313535b", tier:"-"},
-      {icon:"elytra-73b66265", tier:"-"},            
-      {icon:"dia_crystal-b4032423", tier:"-"},
-      {icon:"bow-0b52585f", tier:"-"},
-      {icon:"minecart-e4204998", tier:"-"},                              
-      {icon:"manhunt-f5be6ddb", tier:"-"},
-      {icon:"dia_smp-523efa38", tier:"-"},
-      {icon:"debuff-23da9341", tier:"-"},
-      
-    ]
-  },
+  
   Jonkler75: {
     name: "Jonkler75",
     rank: "5.",
@@ -222,10 +221,30 @@ ItsMoritzzz: {
       {icon:"elytra-73b66265", tier:"-"},
     ]
   },
-  
+   McNicho: {
+    name: "McNicho",
+    rank: "10.",
+    title: "Rookie",
+    points: "8 points",
+    tiers: [
+      {icon:"elytra-73b66265", tier:"LT4"},
+      {icon:"dia_crystal-b4032423", tier:"HT5"},
+      {icon:"creeper-2cbc5b3a", tier:"HT5"},
+      {icon:"bed-7313535b", tier:"LT5"},      
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},         
+      {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},
+      {icon:"speed-116175c6", tier:"-"},      
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
    TREN: {
     name: "1TREN",
-    rank: "10.",
+    rank: "11.",
     title: "Rookie",
     points: "6 points",
     tiers: [
@@ -243,30 +262,7 @@ ItsMoritzzz: {
       {icon:"debuff-23da9341", tier:"-"},
       
     ]
-  },
-  McNicho: {
-    name: "McNicho",
-    rank: "10.",
-    title: "Rookie",
-    points: "6 points",
-    tiers: [
-      {icon:"elytra-73b66265", tier:"LT4"},
-      {icon:"creeper-2cbc5b3a", tier:"HT5"},
-      {icon:"bed-7313535b", tier:"LT5"},
-      {icon:"dia_crystal-b4032423", tier:"-"},
-      {icon:"bow-0b52585f", tier:"-"},
-      {icon:"minecart-e4204998", tier:"-"},         
-      {icon:"og_vanilla-bd47093f", tier:"-"},
-      {icon:"trident-1c1a3e5a", tier:"-"},
-      {icon:"speed-116175c6", tier:"-"},      
-      {icon:"manhunt-f5be6ddb", tier:"-"},
-      {icon:"dia_smp-523efa38", tier:"-"},
-      {icon:"debuff-23da9341", tier:"-"},
-      
-    ]
-  },
-  
-  
+  }, 
   
   BartekGaming383: {
     name: "BartekGaming383",

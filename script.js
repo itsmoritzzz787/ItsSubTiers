@@ -263,11 +263,30 @@ ItsMoritzzz: {
       
     ]
   },
-   
-  
-  BartekGaming383: {
-    name: "BartekGaming383",
+KoksikSzef: {
+    name: "KoksikSzef",
     rank: "12.",
+    title: "Rookie",
+    points: "6 points",
+    tiers: [
+      {icon:"og_vanilla-bd47093f", tier:"LT4"},
+      {icon:"speed-116175c6", tier:"LT4"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},      
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},               
+      {icon:"trident-1c1a3e5a", tier:"-"},           
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      
+    ]
+  },
+   BartekGaming383: {
+    name: "BartekGaming383",
+    rank: "13.",
     title: "Rookie",
     points: "3 points",
     tiers: [
@@ -286,9 +305,11 @@ ItsMoritzzz: {
       
     ]
   },
+  
+  
   TheCronos_YT: {
     name: "TheCronos_YT",
-    rank: "13.",
+    rank: "14.",
     title: "Rookie",
     points: "2 points",
     tiers: [

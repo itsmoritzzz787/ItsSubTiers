@@ -103,7 +103,7 @@ ItsMoritzzz: {
     points: "26 points",
     tiers: [
       {icon:"elytra-73b66265", tier:"LT3"}, 
-      {icon:"speed-116175c6", tier:"HT3"},
+      {icon:"speed-116175c6", tier:"LT3"},
       {icon:"og_vanilla-bd47093f", tier:"LT3"},
       {icon:"trident-1c1a3e5a", tier:"HT4"}, 
       {icon:"creeper-2cbc5b3a", tier:"-"},

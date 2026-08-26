@@ -75,6 +75,27 @@ ItsMoritzzz: {
       {icon:"manhunt-f5be6ddb", tier:"LT5"},          
     ]
   },
+  kasnnn: {
+    name: "kasnnn",
+    rank: "3.",
+    title: "Combat Cadet",
+    points: "28 points",
+    tiers: [
+      {icon:"minecart-e4204998", tier:"LT3"},  
+      {icon:"dia_smp-523efa38", tier:"LT3"},
+      {icon:"speed-116175c6", tier:"LT3"},
+      {icon:"og_vanilla-bd47093f", tier:"LT4"},
+      {icon:"manhunt-f5be6ddb", tier:"HT4"}, 
+      {icon:"creeper-2cbc5b3a", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},                 
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"bow-0b52585f", tier:"-"},                                  
+      {icon:"trident-1c1a3e5a", tier:"-"},  
+      {icon:"debuff-23da9341", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"}, 
+      
+    ]
+  },
   k4qx: {
     name: "k4qx",
     rank: "4.",
@@ -98,7 +119,7 @@ ItsMoritzzz: {
   },
    SocialRex11: {
     name: "SocialRex11",
-    rank: "4.",
+    rank: "5.",
     title: "Combat Cadet",
     points: "24 points",
     tiers: [
@@ -119,7 +140,7 @@ ItsMoritzzz: {
   
   Jonkler75: {
     name: "Jonkler75",
-    rank: "5.",
+    rank: "6.",
     title: "Combat Novice",
     points: "18 points",
     tiers: [
@@ -139,12 +160,12 @@ ItsMoritzzz: {
   },
   TREN: {
     name: "1TREN",
-    rank: "6.",
+    rank: "7.",
     title: "Combat Novice",
-    points: "13 points",
+    points: "14 points",
     tiers: [
       {icon:"speed-116175c6", tier:"LT3"},
-      {icon:"og_vanilla-bd47093f", tier:"LT4"},
+      {icon:"og_vanilla-bd47093f", tier:"HT4"},
       {icon:"trident-1c1a3e5a", tier:"LT4"},  
       {icon:"creeper-2cbc5b3a", tier:"LT5"},
       {icon:"bed-7313535b", tier:"-"},
@@ -160,7 +181,7 @@ ItsMoritzzz: {
   },
   Eliiiiaass: {
     name: "Eliiiiaass",
-    rank: "6.",
+    rank: "8.",
     title: "Combat Novice",
     points: "13 points",
     tiers: [
@@ -181,7 +202,7 @@ ItsMoritzzz: {
   },
    MyNameIsPuma: {
     name: "MyNameIsPuma",
-    rank: "8.",
+    rank: "9.",
     title: "Combat Novice",
     points: "12 points",
     tiers: [
@@ -203,7 +224,7 @@ ItsMoritzzz: {
   
   certifiedrid: {
     name: "certifiedrid",
-    rank: "9.",
+    rank: "10.",
     title: "Combat Novice",
     points: "10 points",
     tiers: [
@@ -223,7 +244,7 @@ ItsMoritzzz: {
   },
    McNicho: {
     name: "McNicho",
-    rank: "10.",
+    rank: "11.",
     title: "Rookie",
     points: "8 points",
     tiers: [
@@ -242,27 +263,7 @@ ItsMoritzzz: {
       
     ]
   },
-   TREN: {
-    name: "1TREN",
-    rank: "11.",
-    title: "Rookie",
-    points: "6 points",
-    tiers: [
-      {icon:"speed-116175c6", tier:"LT4"},
-      {icon:"og_vanilla-bd47093f", tier:"LT4"},
-      {icon:"creeper-2cbc5b3a", tier:"-"},
-      {icon:"bed-7313535b", tier:"-"},
-      {icon:"elytra-73b66265", tier:"-"},            
-      {icon:"dia_crystal-b4032423", tier:"-"},
-      {icon:"bow-0b52585f", tier:"-"},
-      {icon:"minecart-e4204998", tier:"-"},              
-      {icon:"trident-1c1a3e5a", tier:"-"},           
-      {icon:"manhunt-f5be6ddb", tier:"-"},
-      {icon:"dia_smp-523efa38", tier:"-"},
-      {icon:"debuff-23da9341", tier:"-"},
-      
-    ]
-  }, 
+   
   
   BartekGaming383: {
     name: "BartekGaming383",

@@ -38,7 +38,7 @@ const players = {
 ItsMoritzzz: {
     name: "ItsMoritzzz",
     rank: "1.",
-    title: "Combat Cadet",
+    title: "Subtiers Cadet",
     points: "46 points",
     tiers: [
       {icon:"elytra-73b66265", tier:"LT3"},
@@ -57,28 +57,28 @@ ItsMoritzzz: {
   },
    shotss: {
     name: "4shotss",
-    rank: "2.",
-    title: "Combat Cadet",
-    points: "45 points",
+    rank: "1.",
+    title: "Subtiers Cadet",
+    points: "46 points",
     tiers: [
       {icon:"speed-116175c6", tier:"HT3"},
       {icon:"elytra-73b66265", tier:"LT3"},      
       {icon:"og_vanilla-bd47093f", tier:"LT3"},   
       {icon:"dia_smp-523efa38", tier:"HT4"},
+      {icon:"bow-0b52585f", tier:"LT4"}, 
       {icon:"creeper-2cbc5b3a", tier:"LT4"}, 
       {icon:"debuff-23da9341", tier:"LT4"},
       {icon:"trident-1c1a3e5a", tier:"LT4"},   
       {icon:"bed-7313535b", tier:"LT4"},
       {icon:"dia_crystal-b4032423", tier:"HT5"},
-      {icon:"minecart-e4204998", tier:"HT5"},  
-      {icon:"bow-0b52585f", tier:"HT5"},                    
+      {icon:"minecart-e4204998", tier:"HT5"},                          
       {icon:"manhunt-f5be6ddb", tier:"LT5"},          
     ]
   },
   kasnnn: {
     name: "kasnnn",
     rank: "3.",
-    title: "Combat Cadet",
+    title: "Subtiers Cadet",
     points: "28 points",
     tiers: [
       {icon:"minecart-e4204998", tier:"LT3"},  
@@ -99,7 +99,7 @@ ItsMoritzzz: {
   k4qx: {
     name: "k4qx",
     rank: "4.",
-    title: "Combat Cadet",
+    title: "Subtiers Cadet",
     points: "26 points",
     tiers: [
       {icon:"elytra-73b66265", tier:"LT3"}, 
@@ -120,7 +120,7 @@ ItsMoritzzz: {
    SocialRex11: {
     name: "SocialRex11",
     rank: "5.",
-    title: "Combat Cadet",
+    title: "Subtiers Cadet",
     points: "24 points",
     tiers: [
       {icon:"speed-116175c6", tier:"HT4"},
@@ -140,7 +140,7 @@ ItsMoritzzz: {
    Gold3n__: {
     name: "Gold3n__",
     rank: "6.",
-    title: "Combat Novice",
+    title: "Subtiers Novice",
     points: "19 points",
     tiers: [      
       {icon:"speed-116175c6", tier:"LT3"},
@@ -160,7 +160,7 @@ ItsMoritzzz: {
   Jonkler75: {
     name: "Jonkler75",
     rank: "7.",
-    title: "Combat Novice",
+    title: "Subtiers Novice",
     points: "18 points",
     tiers: [
       {icon:"debuff-23da9341", tier:"LT3"},
@@ -180,7 +180,7 @@ ItsMoritzzz: {
   TREN: {
     name: "1TREN",
     rank: "8.",
-    title: "Combat Novice",
+    title: "Subtiers Novice",
     points: "14 points",
     tiers: [
       {icon:"speed-116175c6", tier:"LT3"},
@@ -201,7 +201,7 @@ ItsMoritzzz: {
   Eliiiiaass: {
     name: "Eliiiiaass",
     rank: "9.",
-    title: "Combat Novice",
+    title: "Subtiers Novice",
     points: "13 points",
     tiers: [
       {icon:"dia_smp-523efa38", tier:"LT3"},
@@ -222,7 +222,7 @@ ItsMoritzzz: {
    MyNameIsPuma: {
     name: "MyNameIsPuma",
     rank: "10.",
-    title: "Combat Novice",
+    title: "Subtiers Novice",
     points: "12 points",
     tiers: [
       {icon:"manhunt-f5be6ddb", tier:"LT3"},
@@ -244,7 +244,7 @@ ItsMoritzzz: {
   certifiedrid: {
     name: "certifiedrid",
     rank: "11.",
-    title: "Combat Novice",
+    title: "Subtiers Novice",
     points: "10 points",
     tiers: [
       {icon:"dia_crystal-b4032423", tier:"HT3"},

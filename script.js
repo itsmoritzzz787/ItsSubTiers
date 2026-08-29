@@ -35,26 +35,7 @@ function showKit(e, id) {
   currentIndex = newIndex;
 }
 const players = {
-ItsMoritzzz: {
-    name: "ItsMoritzzz",
-    rank: "1.",
-    title: "Subtiers Cadet",
-    points: "46 points",
-    tiers: [
-      {icon:"elytra-73b66265", tier:"LT3"},
-      {icon:"bed-7313535b", tier:"LT3"},
-      {icon:"bow-0b52585f", tier:"LT3"},
-      {icon:"trident-1c1a3e5a", tier:"HT4"},
-      {icon:"creeper-2cbc5b3a", tier:"HT4"},
-      {icon:"debuff-23da9341", tier:"LT4"},
-      {icon:"dia_smp-523efa38", tier:"LT4"},
-      {icon:"speed-116175c6", tier:"LT4"},     
-      {icon:"minecart-e4204998", tier:"LT4"},     
-      {icon:"dia_crystal-b4032423", tier:"LT4"},
-      {icon:"og_vanilla-bd47093f", tier:"LT4"},      
-      {icon:"manhunt-f5be6ddb", tier:"HT5"},                 
-    ]
-  },
+
    shotss: {
     name: "4shotss",
     rank: "1.",
@@ -77,7 +58,7 @@ ItsMoritzzz: {
   },
   kasnnn: {
     name: "kasnnn",
-    rank: "3.",
+    rank: "2.",
     title: "Subtiers Cadet",
     points: "28 points",
     tiers: [
@@ -98,7 +79,7 @@ ItsMoritzzz: {
   },
   k4qx: {
     name: "k4qx",
-    rank: "4.",
+    rank: "3.",
     title: "Subtiers Cadet",
     points: "26 points",
     tiers: [
@@ -119,7 +100,7 @@ ItsMoritzzz: {
   },
    SocialRex11: {
     name: "SocialRex11",
-    rank: "5.",
+    rank: "4.",
     title: "Subtiers Cadet",
     points: "24 points",
     tiers: [
@@ -139,7 +120,7 @@ ItsMoritzzz: {
   },
    Gold3n__: {
     name: "Gold3n__",
-    rank: "6.",
+    rank: "5.",
     title: "Subtiers Novice",
     points: "19 points",
     tiers: [      
@@ -159,7 +140,7 @@ ItsMoritzzz: {
   },
   Jonkler75: {
     name: "Jonkler75",
-    rank: "7.",
+    rank: "6.",
     title: "Subtiers Novice",
     points: "18 points",
     tiers: [
@@ -179,7 +160,7 @@ ItsMoritzzz: {
   },
   TREN: {
     name: "1TREN",
-    rank: "8.",
+    rank: "7.",
     title: "Subtiers Novice",
     points: "14 points",
     tiers: [
@@ -200,7 +181,7 @@ ItsMoritzzz: {
   },
   Eliiiiaass: {
     name: "Eliiiiaass",
-    rank: "9.",
+    rank: "8.",
     title: "Subtiers Novice",
     points: "13 points",
     tiers: [
@@ -219,9 +200,29 @@ ItsMoritzzz: {
       
     ]
   },
+  ItsMoritzzz: {
+    name: "ItsMoritzzz",
+    rank: "9.",
+    title: "Subtiers Cadet",
+    points: "12 points",
+    tiers: [      
+      {icon:"bed-7313535b", tier:"LT3"},
+      {icon:"bow-0b52585f", tier:"LT3"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"speed-116175c6", tier:"-"},     
+      {icon:"minecart-e4204998", tier:"-"},     
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"og_vanilla-bd47093f", tier:"-"},      
+      {icon:"manhunt-f5be6ddb", tier:"-"},                 
+    ]
+  },
    MyNameIsPuma: {
     name: "MyNameIsPuma",
-    rank: "10.",
+    rank: "9.",
     title: "Subtiers Novice",
     points: "12 points",
     tiers: [
@@ -261,9 +262,29 @@ ItsMoritzzz: {
       {icon:"elytra-73b66265", tier:"-"},
     ]
   },
+  Za1m: {
+    name: "Za1m",
+    rank: "11.",
+    title: "Subtiers Novice",
+    points: "10 points",
+    tiers: [
+      {icon:"dia_smp-523efa38", tier:"HT3"},
+      {icon:"bow-0b52585f", tier:"-"},
+      {icon:"minecart-e4204998", tier:"-"},         
+      {icon:"og_vanilla-bd47093f", tier:"-"},
+      {icon:"bed-7313535b", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},
+      {icon:"speed-116175c6", tier:"-"},      
+      {icon:"creeper-2cbc5b3a", tier:"-"},
+      {icon:"manhunt-f5be6ddb", tier:"-"},
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      {icon:"elytra-73b66265", tier:"-"},
+    ]
+  },
    McNicho: {
     name: "McNicho",
-    rank: "12.",
+    rank: "13.",
     title: "Rookie",
     points: "8 points",
     tiers: [
@@ -284,7 +305,7 @@ ItsMoritzzz: {
   },
 KoksikSzef: {
     name: "KoksikSzef",
-    rank: "13.",
+    rank: "14.",
     title: "Rookie",
     points: "6 points",
     tiers: [
@@ -305,7 +326,7 @@ KoksikSzef: {
   },
    BartekGaming383: {
     name: "BartekGaming383",
-    rank: "14.",
+    rank: "15.",
     title: "Rookie",
     points: "3 points",
     tiers: [
@@ -328,7 +349,7 @@ KoksikSzef: {
   
   TheCronos_YT: {
     name: "TheCronos_YT",
-    rank: "15.",
+    rank: "16.",
     title: "Rookie",
     points: "2 points",
     tiers: [

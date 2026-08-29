@@ -200,26 +200,7 @@ const players = {
       
     ]
   },
-  ItsMoritzzz: {
-    name: "ItsMoritzzz",
-    rank: "9.",
-    title: "Subtiers Cadet",
-    points: "12 points",
-    tiers: [      
-      {icon:"bed-7313535b", tier:"LT3"},
-      {icon:"bow-0b52585f", tier:"LT3"},
-      {icon:"elytra-73b66265", tier:"-"},
-      {icon:"trident-1c1a3e5a", tier:"-"},
-      {icon:"creeper-2cbc5b3a", tier:"-"},
-      {icon:"debuff-23da9341", tier:"-"},
-      {icon:"dia_smp-523efa38", tier:"-"},
-      {icon:"speed-116175c6", tier:"-"},     
-      {icon:"minecart-e4204998", tier:"-"},     
-      {icon:"dia_crystal-b4032423", tier:"-"},
-      {icon:"og_vanilla-bd47093f", tier:"-"},      
-      {icon:"manhunt-f5be6ddb", tier:"-"},                 
-    ]
-  },
+ 
    MyNameIsPuma: {
     name: "MyNameIsPuma",
     rank: "9.",
@@ -244,7 +225,7 @@ const players = {
   
   certifiedrid: {
     name: "certifiedrid",
-    rank: "11.",
+    rank: "10.",
     title: "Subtiers Novice",
     points: "10 points",
     tiers: [
@@ -264,7 +245,7 @@ const players = {
   },
   Za1m: {
     name: "Za1m",
-    rank: "11.",
+    rank: "10.",
     title: "Subtiers Novice",
     points: "10 points",
     tiers: [
@@ -284,7 +265,7 @@ const players = {
   },
    McNicho: {
     name: "McNicho",
-    rank: "13.",
+    rank: "12.",
     title: "Rookie",
     points: "8 points",
     tiers: [
@@ -301,6 +282,26 @@ const players = {
       {icon:"dia_smp-523efa38", tier:"-"},
       {icon:"debuff-23da9341", tier:"-"},
       
+    ]
+  },
+   ItsMoritzzz: {
+    name: "ItsMoritzzz",
+    rank: "13.",
+    title: "Subtiers Cadet",
+    points: "14 points",
+    tiers: [      
+      {icon:"bed-7313535b", tier:"LT4"},
+      {icon:"bow-0b52585f", tier:"LT4"},
+      {icon:"elytra-73b66265", tier:"-"},
+      {icon:"trident-1c1a3e5a", tier:"-"},
+      {icon:"creeper-2cbc5b3a", tier:"-"},
+      {icon:"debuff-23da9341", tier:"-"},
+      {icon:"dia_smp-523efa38", tier:"-"},
+      {icon:"speed-116175c6", tier:"-"},     
+      {icon:"minecart-e4204998", tier:"-"},     
+      {icon:"dia_crystal-b4032423", tier:"-"},
+      {icon:"og_vanilla-bd47093f", tier:"-"},      
+      {icon:"manhunt-f5be6ddb", tier:"-"},                 
     ]
   },
 KoksikSzef: {

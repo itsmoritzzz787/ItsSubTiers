@@ -288,7 +288,7 @@ const players = {
     name: "ItsMoritzzz",
     rank: "13.",
     title: "Subtiers Cadet",
-    points: "14 points",
+    points: "6 points",
     tiers: [      
       {icon:"bed-7313535b", tier:"LT4"},
       {icon:"bow-0b52585f", tier:"LT4"},
